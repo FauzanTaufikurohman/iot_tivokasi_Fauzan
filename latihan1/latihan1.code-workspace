@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DHT22",
+			"path": "../DHT22"
+		}
+	],
+	"settings": {}
+}
